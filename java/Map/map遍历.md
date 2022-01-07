@@ -1,7 +1,10 @@
-# map遍历 
+# map遍历
+
 [TOC]
+
 ## 下列常见的四种
-```
+
+```java
 public static void main(String[] args) {
 
    // 构建一个Map 初始值为3条数据dsda
