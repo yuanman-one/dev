@@ -1,9 +1,10 @@
-### map遍历的几种方式
-
+# map遍历 
+[TOC]
+## 下列常见的四种
+```
 public static void main(String[] args) {
 
-    // 构建一个Map 初始值为3条数据
-    dsda
+   // 构建一个Map 初始值为3条数据dsda
    Map<String, String> map = new HashMap<String,Strin>();
    map.put("1", "xiaqiu");
    map.put("2", "pangzi");
@@ -36,3 +37,4 @@ public static void main(String[] args) {
     System.out.println("value= " + v);
    }
   }
+```
