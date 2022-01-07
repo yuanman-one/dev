@@ -3,12 +3,13 @@
 public static void main(String[] args) {
 
     // 构建一个Map 初始值为3条数据
-   Map<String, String> map = new HashMap<String, String>();
+    dsda
+   Map<String, String> map = new HashMap<String,Strin>();
    map.put("1", "xiaqiu");
    map.put("2", "pangzi");
    map.put("3", "shouzi");
 
-   //第一种：普遍使用，二次取值
+   //  第一种：普遍使用，二次取值
 
    System.out.println("通过Map.keySet遍历key和value：");
    for (String key : map.keySet()) {
