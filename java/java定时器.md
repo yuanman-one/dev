@@ -17,4 +17,4 @@
       - d、schedule(TimerTask task, long delay, long period)
         在指定 的延迟之后开始 ，重新执行 固定延迟执行的指定任务
       - e、cancel() 取消此计时器任务。
-  ![202213233828.jpg](/202213233828.jpg "我的图片")
+  ![202213233828.jpg](/202213233828.jpg "原神")
