@@ -33,7 +33,7 @@
 2. 如何获取 class 对象
 
    - 利用 `Object` 中 `.getclass()`方法
-   - `利用类名.class`
+   - 利用`类名.class`
    - `Class.forName(String 类全称)`
      注意：类的全称=包名+类名
 
